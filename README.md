@@ -1,6 +1,6 @@
 # testrepo
 
-This is a test repository.
+This is a test repository. This is created by Sridhar.
 
 ## Description
 
